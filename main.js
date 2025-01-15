@@ -2,9 +2,9 @@ const num1 = 10;
 const num2 = 20;
 
 function addNum(num1, num2){
-    console.log('${num1} + ${num2} = ${num1+num2}');
+    console.log(`${num1} + ${num2} = ${num1 + num2}`);
 }
 
-// 코드 러너 실행 cmd alt n
+// 코드 러너 실행 control + option + n
 
 addNum(num1, num2);
